@@ -1,5 +1,3 @@
-cd C:\ClarityAI
-@"
 # ClarityAI
 
 ClarityAI is a tool for analyzing scenarios using semantic similarity and causal relationships. It identifies relevant categories in a scenario and provides possible causal explanations.
