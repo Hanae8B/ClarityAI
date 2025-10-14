@@ -4,14 +4,6 @@ ClarityAI is a tool for analyzing scenarios using semantic similarity and causal
 
 ---
 
-## Author
-
-- Name: Your Name
-- Email: your.email@example.com
-- Organization: Your Organization (optional)
-
----
-
 ## Features
 
 - Analyze scenarios in **CLI**, **GUI**, or **batch mode**  
