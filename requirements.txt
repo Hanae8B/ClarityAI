@@ -1,0 +1,11 @@
+# Core AI engine
+sentence-transformers==2.2.2
+torch>=2.1.0
+
+# NLP fallback and utilities
+spacy>=3.6.0
+
+# GUI (Tkinter comes with Python, no extra package needed)
+
+# Optional: pandas for advanced CSV handling (if needed)
+pandas>=2.1.0
