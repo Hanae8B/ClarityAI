@@ -76,4 +76,3 @@ C:\ClarityAI
 
 ## Author
 Anna Baniakina
-"@ | Out-File -Encoding UTF8 README.md
